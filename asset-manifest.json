@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/haasivu/static/css/main.9e05f46a.css",
-    "main.js": "/haasivu/static/js/main.2f0945e5.js",
+    "main.js": "/haasivu/static/js/main.4cb1eee2.js",
     "static/js/787.f444f064.chunk.js": "/haasivu/static/js/787.f444f064.chunk.js",
     "static/media/Alpakka.jpg": "/haasivu/static/media/Alpakka.7f773c2db5cb565dd1d4.jpg",
     "static/media/HSL.jpg": "/haasivu/static/media/HSL.db66144f769521cefbe0.jpg",
     "static/media/lines.jpg": "/haasivu/static/media/lines.5c97fe0a353d12e5d52a.jpg",
     "index.html": "/haasivu/index.html",
     "main.9e05f46a.css.map": "/haasivu/static/css/main.9e05f46a.css.map",
-    "main.2f0945e5.js.map": "/haasivu/static/js/main.2f0945e5.js.map",
+    "main.4cb1eee2.js.map": "/haasivu/static/js/main.4cb1eee2.js.map",
     "787.f444f064.chunk.js.map": "/haasivu/static/js/787.f444f064.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e05f46a.css",
-    "static/js/main.2f0945e5.js"
+    "static/js/main.4cb1eee2.js"
   ]
 }
